@@ -24,16 +24,16 @@ In real-time video calling apps like WhatsApp, it can be inconvenient to tap mut
 ```
 gesture_mute_project/
 │
-├── main.py                      # Main application to run gesture detection
-├── requirements.txt             # Python dependencies
+├── main.py                      
+├── requirements.txt            
 │
 ├── utils/
-│   ├── draw.py                  # Draws UI feedback on video frames
-│   ├── hand_gesture_detector.py# Detects open hand vs fist using MediaPipe
-│   ├── mute_controller.py       # Simulates mic/video toggle logic
-│   └── webcam_stream.py         # Webcam capture module
+│   ├── draw.py                  
+│   ├── hand_gesture_detector.py
+│   ├── mute_controller.py       
+│   └── webcam_stream.py         
 │
-└── README.md                    # This file
+└── README.md                    
 ```
 
 ## How to Run
@@ -71,9 +71,9 @@ This project was inspired by the common inconvenience users face when needing to
 
 ## Contact / Collaboration
 
-Built by [Your Name]
+Built by Shenishetty Suchir
 
 If you're from WhatsApp/Meta or are interested in collaboration:
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Demo Video: [link-to-demo-video]
+- Email: shettysuchir@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shenishetty-suchir-452301349
+- Demo Video: 
